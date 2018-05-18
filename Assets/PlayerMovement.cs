@@ -2,30 +2,35 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
-{
-
-    public Transform transform;
+public class PlayerMovement : MonoBehaviour{
 
     // Use this for initialization
+    Vector3 playerVector; 
+
     void Start()
     {
 
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-
+        
+        transform.position += playerVector;
     }
 
-    public void moveX(float x)
+    public void moveXin(float x)
     {
-        transform.position = new Vector3(x, 0, 0);
+        playerVector = new Vector3(x, 0, 0);
     }
 
-    public void moveY(float z)
+    public void moveZin(float z)
     {
-        transform.position = new Vector3(0, 0, z);
+        playerVector = new Vector3(0, 0, z);
+    }
+
+    public void moveOut()
+    {
+        playerVector = new Vector3(0, 0, 0);
     }
 }
