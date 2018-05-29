@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break Block VR Cardboard", "Assembly-CSharp.csproj", "{70BF286E-291A-9721-E3E4-3FA5EF0F6297}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{70BF286E-291A-9721-E3E4-3FA5EF0F6297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break Block VR Cardboard", "Assembly-CSharp-Editor.csproj", "{24B242C6-EBDB-86D1-EC6E-19CB65500AA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{24B242C6-EBDB-86D1-EC6E-19CB65500AA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

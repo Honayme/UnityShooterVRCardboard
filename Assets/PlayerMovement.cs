@@ -5,25 +5,24 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour{
 
     // Use this for initialization
+    public Transform playerTf; 
     Vector3 playerVector; 
 
-    void Start()
-    {
+    void Start(){
 
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        
-        transform.position += playerVector;
+        playerTf.position += playerVector;
     }
 
     public void moveXin(float x)
     {
         playerVector = new Vector3(x, 0, 0);
     }
-
+    
     public void moveZin(float z)
     {
         playerVector = new Vector3(0, 0, z);
