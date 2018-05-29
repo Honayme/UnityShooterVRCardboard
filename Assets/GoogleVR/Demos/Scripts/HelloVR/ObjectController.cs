@@ -23,6 +23,8 @@ namespace GoogleVR.HelloVR {
     public Material inactiveMaterial;
     public Material gazedAtMaterial;
 
+    public Score scoreScript;
+    
     void Start() {
       startingPosition = transform.localPosition;
       myRenderer = GetComponent<Renderer>();
@@ -55,6 +57,18 @@ namespace GoogleVR.HelloVR {
       }
 #endif  // !UNITY_EDITOR
     }
+
+
+    private void OnCollisionEnter(Collision col)
+    {
+      if(col.gameObject.tag == "bullet")
+      {
+        TeleportRandomly();
+        GameObject.Destroy(col.gameObject);
+        scoreScript.updateScore(10);
+      }
+    }
+
 
     public void TeleportRandomly() {
       // Pick a random sibling, move them somewhere random, activate them,

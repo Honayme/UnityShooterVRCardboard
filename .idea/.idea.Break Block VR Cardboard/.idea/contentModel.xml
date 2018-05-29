@@ -229,6 +229,7 @@
       </e>
       <e p="Assets\PlayerMovement.cs" t="Include" />
       <e p="Assets\PlayerShooter.cs" t="Include" />
+      <e p="Assets\Score.cs" t="Include" />
       <e p="Break Block VR Cardboard.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

@@ -6,7 +6,8 @@ using UnityEngine;
 public class BulletMovement : MonoBehaviour
 {
 
-	public float speed = 20.0f; 
+	public float speed = 20.0f;
+	private float elapsed; 
 	
 	// Use this for initialization
 	void Start () {
@@ -16,6 +17,12 @@ public class BulletMovement : MonoBehaviour
 	// Update is called once per frame
 	void FixedUpdate ()
 	{
-		transform.position += transform.forward * speed * Time.fixedDeltaTime; 
+		elapsed += Time.fixedDeltaTime;
+		transform.position += transform.forward * speed * Time.fixedDeltaTime;
+
+		if (elapsed > 5)
+		{
+			GameObject.Destroy(gameObject);
+		}
 	}
 }

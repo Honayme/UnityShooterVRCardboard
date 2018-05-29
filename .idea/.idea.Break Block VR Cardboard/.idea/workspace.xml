@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b675f8f9-c9c7-4eb2-ab12-5e9a84eb9812" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Break Block VR Cardboard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Break Block VR Cardboard/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Break Block VR Cardboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Break Block VR Cardboard/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Prefab/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/Prefab/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BulletMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BulletMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scenes/HelloVR 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scenes/HelloVR 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerShooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerShooter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Break Block VR Cardboard.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Break Block VR Cardboard.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000003000000000000000" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000003000000000000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/59/59ca91ec12dae0245bd3b810fd02e3a4" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/59/59ca91ec12dae0245bd3b810fd02e3a4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9d/9d0e5fe5b36e4a047a85e1f8b82c5fb1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9d/9d0e5fe5b36e4a047a85e1f8b82c5fb1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b6/b6d9412aff759420192d8dcf33f969bb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b6/b6d9412aff759420192d8dcf33f969bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,32 +49,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BulletMovement.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BulletMovement.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/BulletMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding>
-                <marker date="1527597669142" expanded="false" signature="6:97" ph="..." />
-                <marker date="1527597669142" expanded="true" signature="142:373" ph="{...}" />
-                <marker date="1527597669142" expanded="true" signature="225:232" ph="{...}" />
-                <marker date="1527597669142" expanded="true" signature="291:371" ph="{...}" />
+                <marker date="1527605413485" expanded="false" signature="6:97" ph="..." />
+                <marker date="1527605413485" expanded="true" signature="142:493" ph="{...}" />
+                <marker date="1527605413485" expanded="true" signature="249:256" ph="{...}" />
+                <marker date="1527605413485" expanded="true" signature="315:491" ph="{...}" />
+                <marker date="1527605413485" expanded="true" signature="445:488" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerShooter.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlayerShooter.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PlayerShooter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+            <state relative-caret-position="255">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
-                <marker date="1527598758442" expanded="true" signature="6:78" ph="..." />
-                <marker date="1527598758442" expanded="true" signature="123:403" ph="{...}" />
-                <marker date="1527598758442" expanded="true" signature="227:234" ph="{...}" />
-                <marker date="1527598758442" expanded="true" signature="289:401" ph="{...}" />
-                <marker date="1527598758442" expanded="true" signature="322:395" ph="{...}" />
+                <marker date="1527602108403" expanded="true" signature="6:78" ph="..." />
+                <marker date="1527602108403" expanded="true" signature="123:407" ph="{...}" />
+                <marker date="1527602108403" expanded="true" signature="227:234" ph="{...}" />
+                <marker date="1527602108403" expanded="true" signature="289:405" ph="{...}" />
+                <marker date="1527602108403" expanded="true" signature="326:399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Score.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Score.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1527605228467" expanded="true" signature="6:100" ph="..." />
+                <marker date="1527605228467" expanded="true" signature="136:382" ph="{...}" />
+                <marker date="1527605228467" expanded="true" signature="226:233" ph="{...}" />
+                <marker date="1527605228467" expanded="true" signature="287:320" ph="{...}" />
+                <marker date="1527605228467" expanded="true" signature="356:380" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <marker date="1527604555188" expanded="true" signature="0:608" ph="/* Copyright 2014 Google Inc. All rights reserved. ... */" />
+                <marker date="1527604555188" expanded="true" signature="637:3038" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="748:3036" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="950:1077" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1120:1292" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1185:1286" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1318:1626" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1453:1620" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1655:1852" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1765:1821" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1903:2081" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="1950:2075" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="2119:3032" ph="{...}" />
+                <marker date="1527604555188" expanded="true" signature="2127:2224" ph="/* Pick a random sibling, move them somewhere random, activate them, ... */" />
               </folding>
             </state>
           </provider>
@@ -75,6 +129,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PlayerShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Score.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BulletMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -82,8 +138,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/BulletMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletMovement.cs" />
       </list>
     </option>
   </component>
@@ -155,12 +213,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527582127461</updated>
-      <workItem from="1527582131233" duration="9756000" />
+      <workItem from="1527582131233" duration="14869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9756000" />
+    <option name="totallyTimeSpent" value="14869000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,29 +282,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/BulletMovement.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/PlayerShooter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="255">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
-            <marker date="1527597669142" expanded="false" signature="6:97" ph="..." />
-            <marker date="1527597669142" expanded="true" signature="142:373" ph="{...}" />
-            <marker date="1527597669142" expanded="true" signature="225:232" ph="{...}" />
-            <marker date="1527597669142" expanded="true" signature="291:371" ph="{...}" />
+            <marker date="1527602108403" expanded="true" signature="6:78" ph="..." />
+            <marker date="1527602108403" expanded="true" signature="123:407" ph="{...}" />
+            <marker date="1527602108403" expanded="true" signature="227:234" ph="{...}" />
+            <marker date="1527602108403" expanded="true" signature="289:405" ph="{...}" />
+            <marker date="1527602108403" expanded="true" signature="326:399" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PlayerShooter.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Score.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1527605228467" expanded="true" signature="6:100" ph="..." />
+            <marker date="1527605228467" expanded="true" signature="136:382" ph="{...}" />
+            <marker date="1527605228467" expanded="true" signature="226:233" ph="{...}" />
+            <marker date="1527605228467" expanded="true" signature="287:320" ph="{...}" />
+            <marker date="1527605228467" expanded="true" signature="356:380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <marker date="1527604555188" expanded="true" signature="0:608" ph="/* Copyright 2014 Google Inc. All rights reserved. ... */" />
+            <marker date="1527604555188" expanded="true" signature="637:3038" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="748:3036" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="950:1077" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1120:1292" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1185:1286" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1318:1626" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1453:1620" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1655:1852" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1765:1821" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1903:2081" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="1950:2075" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="2119:3032" ph="{...}" />
+            <marker date="1527604555188" expanded="true" signature="2127:2224" ph="/* Pick a random sibling, move them somewhere random, activate them, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BulletMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
-            <marker date="1527598758442" expanded="true" signature="6:78" ph="..." />
-            <marker date="1527598758442" expanded="true" signature="123:403" ph="{...}" />
-            <marker date="1527598758442" expanded="true" signature="227:234" ph="{...}" />
-            <marker date="1527598758442" expanded="true" signature="289:401" ph="{...}" />
-            <marker date="1527598758442" expanded="true" signature="322:395" ph="{...}" />
+            <marker date="1527605413485" expanded="false" signature="6:97" ph="..." />
+            <marker date="1527605413485" expanded="true" signature="142:493" ph="{...}" />
+            <marker date="1527605413485" expanded="true" signature="249:256" ph="{...}" />
+            <marker date="1527605413485" expanded="true" signature="315:491" ph="{...}" />
+            <marker date="1527605413485" expanded="true" signature="445:488" ph="{...}" />
           </folding>
         </state>
       </provider>
